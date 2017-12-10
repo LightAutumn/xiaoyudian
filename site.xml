@@ -35,7 +35,7 @@
 
    <category-def name="Subclipse" label="Subclipse">
       <description>
-         Subversion 1.7 plug-in for Eclipse 3.2 and higher. 一步提交
+         Subversion 1.7 plug-in for Eclipse 3.2 and higher. version1 what
       </description>
    </category-def>
    <category-def name="SVNKit" label="SVNKit">
